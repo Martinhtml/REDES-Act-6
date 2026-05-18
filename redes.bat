@@ -120,9 +120,7 @@ IF %opc% == 9 (
 )
 
 IF %opc% == 10 (
-    ipconfig 192.168.0.101
-    ipconfig 192.168.0.1
-    ipconfig 8.8.8.8
+    ipconfig
     pause 
     echo .
     echo . 
